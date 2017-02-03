@@ -131,4 +131,8 @@
     <string name="changelog_error">Unable to load changelog</string>
 
     <string name="battery_temp">Battery temperature</string>
+
+    <!-- Running services -->
+    <string name="background_processes_settings_title">Background processes</string>
+
 </resources>
