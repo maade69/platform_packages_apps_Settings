@@ -130,4 +130,5 @@
     <string name="changelog_loading">Loading changelog\u2026</string>
     <string name="changelog_error">Unable to load changelog</string>
 
+    <string name="battery_temp">Battery temperature</string>
 </resources>
