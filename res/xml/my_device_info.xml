@@ -134,13 +134,6 @@
         settings:enableCopying="true"
         settings:controller="com.android.settings.deviceinfo.BuildNumberPreferenceController"/>
 
-    <!-- SELinux status information -->
-    <Preference
-        android:key="selinux_status"
-        android:order="46"
-        android:title="@string/selinux_status"
-        android:summary="@string/selinux_status_enforcing"/>
-
     <!-- Device up time -->
     <Preference
         android:key="up_time"
