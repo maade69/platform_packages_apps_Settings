@@ -170,16 +170,27 @@
    <!-- Volume link notification -->
     <string name="volume_link_notification_title">Link ring &amp; notification volumes</string>
 
+<<<<<<< HEAD
     <!-- FOD animations -->
     <string name="fod_recog_animation">FOD recognizing animation</string>
     <string name="fod_recog_animation_summary">Shows an animation while reading your finger</string>
     <string name="fod_recog_animation_effect_title">Recognizing animation effect</string>
     <string name="fod_recog_animation_miui_normal">MIUI default</string> 
+=======
+        <!-- FOD animations -->
+    <string name="fod_recog_animation_effect_title">Recognizing animation effect</string>
+    <string name="fod_recog_animation_none">None</string>
+    <string name="fod_recog_animation_miui_normal">MIUI default</string>
+>>>>>>> f49cbb113a643caae8868f91086c5a52f9681fe7
     <string name="fod_recog_animation_miui_aod">AOD</string>
     <string name="fod_recog_animation_miui_light">Light</string>
     <string name="fod_recog_animation_miui_pop">Pop</string>
     <string name="fod_recog_animation_miui_pulse">Pulse</string>
+<<<<<<< HEAD
     <string name="fod_recog_animation_miui_pulse_white">Pulse (White)</string> 
+=======
+    <string name="fod_recog_animation_miui_pulse_white">Pulse (White)</string>
+>>>>>>> f49cbb113a643caae8868f91086c5a52f9681fe7
     <string name="fod_recog_animation_miui_rhythm">Rhythm</string>
     <string name="fod_recog_animation_op_cosmos">Cosmos</string>
     <string name="fod_recog_animation_op_mclaren">McLaren</string>
@@ -187,6 +198,18 @@
     <string name="fod_recog_animation_op_wave">Wave</string>
     <string name="fod_recog_animation_pureview_dna">DNA</string>
     <string name="fod_recog_animation_pureview_future">Future</string>
+<<<<<<< HEAD
     <string name="fod_recog_animation_pureview_halo_ring">Halo ring</string> 
     <string name="fod_recog_animation_pureview_molecular">Molecular</string>
+=======
+    <string name="fod_recog_animation_pureview_halo_ring">Halo ring</string>
+    <string name="fod_recog_animation_pureview_molecular">Molecular</string>
+    <string name="fod_recog_animation_miui_aurora">Aurora</string>
+    <string name="fod_recog_animation_op_energy">Energy</string>
+    <string name="fod_recog_animation_op_ripple">Ripple</string>
+    <string name="fod_recog_animation_bluefirework">Blue Fireworks</string>
+    <string name="fod_recog_animation_coloros7_1">ColorOS7 1</string>
+    <string name="fod_recog_animation_coloros7_2">ColorOS7 2</string>
+    
+>>>>>>> f49cbb113a643caae8868f91086c5a52f9681fe7
 </resources>
